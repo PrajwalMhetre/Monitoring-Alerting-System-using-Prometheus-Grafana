@@ -1,4 +1,4 @@
-# 🔍 Monitoring & Alerting System using Prometheus + Grafana + Node Exporter
+![graff](https://github.com/user-attachments/assets/7f7133a9-d0b9-45a1-8008-e527ad61fd78)# 🔍 Monitoring & Alerting System using Prometheus + Grafana + Node Exporter
 
 🚀 This project is a complete DevOps Monitoring Stack using:
 - **Prometheus** – for scraping and storing time-series metrics
@@ -8,13 +8,7 @@
 
 ---
 
-## 📷 Demo Screenshot
-
-![Grafana Dashboard](./assets/grafana-dashboard.png)
-
----
-
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 | Tool        | Purpose                             |
 |-------------|-------------------------------------|
@@ -25,9 +19,9 @@
 
 ---
 
-## 🚀 How to Run
+ How to Run
 
-### 1. Clone the Repo
+ 1. Clone the Repo
 
 ```bash
 git clone https://github.com/PrajwalMhetre/Monitoring-Alerting-System-using-Prometheus-Grafana.git
